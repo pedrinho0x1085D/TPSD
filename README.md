@@ -18,4 +18,6 @@ o qual não a recursos suficientes e nunca ninguém adicionar esses recursos.
 
 -->Tratar de falhas repentinas no lado do cliente.
 
-Classificação: 15/20
+-->Cumprir o requisito de ser notificado quando uma dada tarefa seja terminada
+
+###Classificação: 15/20
